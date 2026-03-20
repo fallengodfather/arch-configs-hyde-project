@@ -6,4 +6,4 @@
 [wallpaper]
 backend = "swww"
 filetypes = [ "jpg", "png", "gif" ]
-custom_paths = [ "/home/leandros/Pictures/Wallpapers/TokyoNight", ]
+custom_paths = [ "$HOME/Pictures/Wallpapers/TokyoNight", ]
