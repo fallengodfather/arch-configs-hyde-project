@@ -1,0 +1,33 @@
+2026/03/17-13:43:21.976 5 Reusing MANIFEST /home/leandros/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2026/03/17-13:43:21.977 5 Recovering log #50
+2026/03/17-13:43:21.978 5 Reusing old log /home/leandros/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000050.log 
+2026/03/17-14:48:33.186 7 Level-0 table #55: started
+2026/03/17-14:48:33.190 7 Level-0 table #55: 22285 bytes OK
+2026/03/17-14:48:33.193 7 Delete type=0 #50
+2026/03/18-19:30:09.186 5 Level-0 table #57: started
+2026/03/18-19:30:09.192 5 Level-0 table #57: 22219 bytes OK
+2026/03/18-19:30:09.198 5 Delete type=0 #54
+2026/03/18-23:14:12.426 7 Level-0 table #59: started
+2026/03/18-23:14:12.440 7 Level-0 table #59: 30442 bytes OK
+2026/03/18-23:14:12.442 7 Delete type=0 #56
+2026/03/18-23:15:41.295 7 Level-0 table #61: started
+2026/03/18-23:15:41.302 7 Level-0 table #61: 12038 bytes OK
+2026/03/18-23:15:41.307 7 Delete type=0 #58
+2026/03/18-23:15:41.308 7 Compacting 4@0 + 1@1 files
+2026/03/18-23:15:41.315 7 Generated table #62@0: 246 keys, 32965 bytes
+2026/03/18-23:15:41.316 7 Compacted 4@0 + 1@1 files => 32965 bytes
+2026/03/18-23:15:41.319 7 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/03/18-23:15:41.321 7 Delete type=2 #55
+2026/03/18-23:15:41.321 7 Delete type=2 #57
+2026/03/18-23:15:41.321 7 Delete type=2 #61
+2026/03/18-23:15:41.321 7 Delete type=2 #52
+2026/03/18-23:15:41.321 7 Delete type=2 #59
+2026/03/18-23:16:44.580 7 Level-0 table #64: started
+2026/03/18-23:16:44.585 7 Level-0 table #64: 12149 bytes OK
+2026/03/18-23:16:44.590 7 Delete type=0 #60
+2026/03/18-23:16:49.853 7 Level-0 table #66: started
+2026/03/18-23:16:49.858 7 Level-0 table #66: 12612 bytes OK
+2026/03/18-23:16:49.861 7 Delete type=0 #63
+2026/03/18-23:17:31.116 5 Level-0 table #68: started
+2026/03/18-23:17:31.122 5 Level-0 table #68: 13092 bytes OK
+2026/03/18-23:17:31.128 5 Delete type=0 #65

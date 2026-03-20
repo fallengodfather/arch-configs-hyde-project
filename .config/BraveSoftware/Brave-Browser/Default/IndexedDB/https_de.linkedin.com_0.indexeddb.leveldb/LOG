@@ -1,0 +1,6 @@
+2026/03/17-01:19:27.281 5f5e Creating DB /home/leandros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_de.linkedin.com_0.indexeddb.leveldb since it was missing.
+2026/03/17-01:19:27.286 5f5e Reusing MANIFEST /home/leandros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_de.linkedin.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/17-01:19:30.217 5f5c Level-0 table #5: started
+2026/03/17-01:19:30.219 5f5c Level-0 table #5: 1249 bytes OK
+2026/03/17-01:19:30.221 5f5c Delete type=0 #3
+2026/03/17-01:19:30.221 5f09 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

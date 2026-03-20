@@ -1,0 +1,12 @@
+2026/03/18-23:23:10.384 1026 Reusing MANIFEST /home/leandros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/18-23:23:10.384 1026 Recovering log #55
+2026/03/18-23:23:10.389 1026 Reusing old log /home/leandros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000055.log 
+2026/03/18-23:23:16.757 1028 Level-0 table #60: started
+2026/03/18-23:23:16.780 1028 Level-0 table #60: 2849842 bytes OK
+2026/03/18-23:23:16.783 1028 Delete type=0 #55
+2026/03/18-23:25:43.257 1028 Compacting 1@1 + 1@2 files
+2026/03/18-23:25:43.278 1028 Generated table #61@1: 453 keys, 78913 bytes
+2026/03/18-23:25:43.278 1028 Compacted 1@1 + 1@2 files => 78913 bytes
+2026/03/18-23:25:43.280 1028 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/18-23:25:43.280 1028 Delete type=2 #60
+2026/03/18-23:25:43.280 1028 Delete type=2 #57

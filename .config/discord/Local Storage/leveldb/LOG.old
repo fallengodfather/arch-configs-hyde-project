@@ -1,0 +1,20 @@
+2026/03/19-01:57:55.125 16ca8 Reusing MANIFEST /home/leandros/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2026/03/19-01:57:55.132 16ca8 Recovering log #165
+2026/03/19-01:57:55.132 16ca8 Reusing old log /home/leandros/.config/discord/Local Storage/leveldb/000165.log 
+2026/03/19-01:58:55.134 16ca9 Level-0 table #169: started
+2026/03/19-01:58:55.151 16ca9 Level-0 table #169: 63366 bytes OK
+2026/03/19-01:58:55.155 16ca9 Delete type=0 #165
+2026/03/19-01:58:55.156 16ca9 Compacting 4@0 + 2@1 files
+2026/03/19-01:58:55.236 16ca9 Generated table #170@0: 17 keys, 4700782 bytes
+2026/03/19-01:58:55.239 16ca9 Generated table #171@0: 44 keys, 74178 bytes
+2026/03/19-01:58:55.239 16ca9 Compacted 4@0 + 2@1 files => 4774960 bytes
+2026/03/19-01:58:55.242 16ca9 compacted to: files[ 0 2 1 0 0 0 0 ]
+2026/03/19-01:58:55.242 16ca9 Delete type=2 #166
+2026/03/19-01:58:55.242 16ca9 Delete type=2 #164
+2026/03/19-01:58:55.242 16ca9 Delete type=2 #169
+2026/03/19-01:58:55.242 16ca9 Delete type=2 #159
+2026/03/19-01:58:55.242 16ca9 Delete type=2 #160
+2026/03/19-01:58:55.242 16ca9 Delete type=2 #162
+2026/03/19-02:10:27.020 16ca9 Level-0 table #173: started
+2026/03/19-02:10:27.069 16ca9 Level-0 table #173: 4716772 bytes OK
+2026/03/19-02:10:27.072 16ca9 Delete type=0 #168

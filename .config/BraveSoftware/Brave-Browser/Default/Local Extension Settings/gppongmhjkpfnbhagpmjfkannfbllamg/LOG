@@ -1,0 +1,27 @@
+2026/03/19-04:41:40.346 c69e Reusing MANIFEST /home/leandros/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/gppongmhjkpfnbhagpmjfkannfbllamg/MANIFEST-000001
+2026/03/19-04:41:40.347 c69e Recovering log #94
+2026/03/19-04:41:40.347 c69e Reusing old log /home/leandros/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/gppongmhjkpfnbhagpmjfkannfbllamg/000094.log 
+2026/03/19-05:10:40.650 c69e Level-0 table #98: started
+2026/03/19-05:10:40.673 c69e Level-0 table #98: 939388 bytes OK
+2026/03/19-05:10:40.676 c69e Delete type=0 #94
+2026/03/19-14:41:17.323 c6ef Level-0 table #100: started
+2026/03/19-14:41:17.344 c6ef Level-0 table #100: 949353 bytes OK
+2026/03/19-14:41:17.348 c6ef Delete type=0 #97
+2026/03/19-14:41:17.349 c6ef Compacting 4@0 + 1@1 files
+2026/03/19-14:41:17.364 c6ef Generated table #101@0: 1 keys, 30587 bytes
+2026/03/19-14:41:17.364 c6ef Compacted 4@0 + 1@1 files => 30587 bytes
+2026/03/19-14:41:17.366 c6ef compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/19-14:41:17.367 c6ef Delete type=2 #95
+2026/03/19-14:41:17.367 c6ef Delete type=2 #91
+2026/03/19-14:41:17.367 c6ef Delete type=2 #98
+2026/03/19-14:41:17.367 c6ef Delete type=2 #100
+2026/03/19-14:41:17.367 c6ef Delete type=2 #93
+2026/03/19-15:53:31.828 c69e Level-0 table #103: started
+2026/03/19-15:53:31.840 c69e Level-0 table #103: 900993 bytes OK
+2026/03/19-15:53:31.843 c69e Delete type=0 #99
+2026/03/19-17:21:23.503 c69e Level-0 table #105: started
+2026/03/19-17:21:23.521 c69e Level-0 table #105: 910855 bytes OK
+2026/03/19-17:21:23.523 c69e Delete type=0 #102
+2026/03/19-23:18:39.054 c69e Level-0 table #107: started
+2026/03/19-23:18:39.066 c69e Level-0 table #107: 907375 bytes OK
+2026/03/19-23:18:39.069 c69e Delete type=0 #104

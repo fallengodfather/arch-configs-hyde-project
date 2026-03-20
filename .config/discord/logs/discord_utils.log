@@ -1,0 +1,7 @@
+[2026-Mar-14 21:08:29.311 +00:00][13807:13807][info ] Logging initialized
+[2026-Mar-15 02:24:26.667 +00:00][38646:38646][info ] Logging initialized
+[2026-Mar-15 12:45:12.674 +00:00][11596:11596][info ] Logging initialized
+[2026-Mar-15 12:45:18.945 +00:00][11596:11624][info ] Long Queue Time for store 'Utils'. Task 'SetObservedGamesCallback2' executed for 67.861264ms
+[2026-Mar-16 14:54:21.949 +00:00][52659:52659][info ] Logging initialized
+[2026-Mar-19 01:58:21.258 +00:00][93891:93891][info ] Logging initialized
+[2026-Mar-19 16:35:53.501 +00:00][83872:83872][info ] Logging initialized

@@ -1,0 +1,638 @@
+{
+   "attributeAbout": {
+      "message": "درباره"
+   },
+   "attributeCertInfo_issuer": {
+      "message": "Cert issuer"
+   },
+   "attributeCertInfo_protocol": {
+      "message": "Cert protocol"
+   },
+   "attributeCertInfo_subjectCountry": {
+      "message": "Cert country"
+   },
+   "attributeCertInfo_subjectLocality": {
+      "message": "Cert locality"
+   },
+   "attributeCertInfo_subjectOrg": {
+      "message": "Cert organisation"
+   },
+   "attributeCertInfo_subjectState": {
+      "message": "Cert state"
+   },
+   "attributeCertInfo_validTo": {
+      "message": "Cert expiry"
+   },
+   "attributeCompanyFounded": {
+      "message": "سال تأسیس شرکت"
+   },
+   "attributeCompanyName": {
+      "message": "نام شرکت"
+   },
+   "attributeCompanySize": {
+      "message": "اندازه شرکت"
+   },
+   "attributeCompanyType": {
+      "message": "نوع شرکت"
+   },
+   "attributeCopyright": {
+      "message": "حق نشر"
+   },
+   "attributeCopyrightYear": {
+      "message": "سال حق نشر"
+   },
+   "attributeDescription": {
+      "message": "توضیحات"
+   },
+   "attributeDns_dmarc": {
+      "message": "رکورد DMARC"
+   },
+   "attributeDns_spf": {
+      "message": "رکورد SPF"
+   },
+   "attributeEmail": {
+      "message": "آدرس ایمیل"
+   },
+   "attributeEmployees": {
+      "message": "افراد"
+   },
+   "attributeFacebook": {
+      "message": "Facebook"
+   },
+   "attributeFundingRounds": {
+      "message": "دورهای تأمین مالی"
+   },
+   "attributeFundingTotalUsd": {
+      "message": "مجموع تأمین مالی"
+   },
+   "attributeGithub": {
+      "message": "GitHub"
+   },
+   "attributeHttps": {
+      "message": "SSL/TLS enabled"
+   },
+   "attributeIndustry": {
+      "message": "صنعت"
+   },
+   "attributeInferredCompanyName": {
+      "message": "نام شرکت استنباط‌شده"
+   },
+   "attributeInstagram": {
+      "message": "Instagram"
+   },
+   "attributeIpCountry": {
+      "message": "کشور IP"
+   },
+   "attributeIpRegion": {
+      "message": "منطقه IP"
+   },
+   "attributeKeywords": {
+      "message": "کلمات کلیدی"
+   },
+   "attributeLanguage": {
+      "message": "زبان"
+   },
+   "attributeLinkedin": {
+      "message": "LinkedIn"
+   },
+   "attributeLocations": {
+      "message": "مکان‌ها"
+   },
+   "attributeOwler": {
+      "message": "Owler"
+   },
+   "attributePhone": {
+      "message": "شماره تلفن"
+   },
+   "attributePinterest": {
+      "message": "Pinterest"
+   },
+   "attributeResponsive": {
+      "message": "واکنش‌گرا"
+   },
+   "attributeSafeEmail": {
+      "message": "آدرس ایمیل (ایمن)"
+   },
+   "attributeSchemaOrgTypes": {
+      "message": "انواع schema.org"
+   },
+   "attributeSemrushGlobalRank": {
+      "message": "رتبه جهانی Semrush"
+   },
+   "attributeSemrushVisits": {
+      "message": "بازدیدهای ماهانه Semrush"
+   },
+   "attributeSkype": {
+      "message": "Skype"
+   },
+   "attributeStockSymbol": {
+      "message": "نماد سهام"
+   },
+   "attributeTechnologySpend": {
+      "message": "هزینه فناوری"
+   },
+   "attributeTiktok": {
+      "message": "TikTok"
+   },
+   "attributeTitle": {
+      "message": "عنوان"
+   },
+   "attributeTrackerFacebook": {
+      "message": "Facebook"
+   },
+   "attributeTrackerGoogleAdSense": {
+      "message": "Google AdSense"
+   },
+   "attributeTrackerGoogleAnalytics": {
+      "message": "Google Analytics"
+   },
+   "attributeTrackerMedianet": {
+      "message": "Medianet"
+   },
+   "attributeTrackerOptimizely": {
+      "message": "Optimizely"
+   },
+   "attributeTwitter": {
+      "message": "Twitter"
+   },
+   "attributeVerifiedEmail": {
+      "message": "آدرس ایمیل (تأییدشده)"
+   },
+   "attributeWhatsapp": {
+      "message": "WhatsApp"
+   },
+   "attributeYoutube": {
+      "message": "YouTube"
+   },
+   "categoryName1": {
+      "message": "سیستم مدیریت محتوا"
+   },
+   "categoryName10": {
+      "message": "تجزیه و تحلیل‌ها"
+   },
+   "categoryName100": {
+      "message": "برنامه‌های Shopify"
+   },
+   "categoryName101": {
+      "message": "استخدام و تأمین نیرو"
+   },
+   "categoryName102": {
+      "message": "مرجوعی‌ها"
+   },
+   "categoryName103": {
+      "message": "پخش زنده"
+   },
+   "categoryName104": {
+      "message": "رزرو بلیت"
+   },
+   "categoryName105": {
+      "message": "واقعیت افزوده"
+   },
+   "categoryName106": {
+      "message": "تجارت الکترونیکی فرامرزی"
+   },
+   "categoryName107": {
+      "message": "انجام سفارش"
+   },
+   "categoryName108": {
+      "message": "فرانت‌اندهای تجارت الکترونیکی"
+   },
+   "categoryName109": {
+      "message": "پارک دامنه"
+   },
+   "categoryName11": {
+      "message": "بلاگ"
+   },
+   "categoryName110": {
+      "message": "سازنده‌های فرم"
+   },
+   "categoryName111": {
+      "message": "جمع‌آوری کمک مالی و اهدایی"
+   },
+   "categoryName12": {
+      "message": "فریم ورک جاوا اسکریپت"
+   },
+   "categoryName13": {
+      "message": "ردیاب مشکل"
+   },
+   "categoryName14": {
+      "message": "پخش کننده ویدیویی"
+   },
+   "categoryName15": {
+      "message": "سیستم نظرسنجی"
+   },
+   "categoryName16": {
+      "message": "امنیت"
+   },
+   "categoryName17": {
+      "message": "اسکریپ فونت"
+   },
+   "categoryName18": {
+      "message": "چارچوب وب"
+   },
+   "categoryName19": {
+      "message": "متفرقه"
+   },
+   "categoryName2": {
+      "message": "انجمن پیام"
+   },
+   "categoryName20": {
+      "message": "ویرایشگر"
+   },
+   "categoryName21": {
+      "message": "سامانه مدیریت آموزشی"
+   },
+   "categoryName22": {
+      "message": "وب سرور"
+   },
+   "categoryName23": {
+      "message": "ابزار کش"
+   },
+   "categoryName24": {
+      "message": "ویرایشگر متن توانمند"
+   },
+   "categoryName25": {
+      "message": "گرافیک‌های جاوا اسکریپت"
+   },
+   "categoryName26": {
+      "message": "چارچوب موبایل"
+   },
+   "categoryName27": {
+      "message": "زبان برنامه نویسی"
+   },
+   "categoryName28": {
+      "message": "سیستم عامل"
+   },
+   "categoryName29": {
+      "message": "موتور جستجو"
+   },
+   "categoryName3": {
+      "message": "مدیریت پایگاه داده"
+   },
+   "categoryName30": {
+      "message": "پست الکترونیکی تحت وب"
+   },
+   "categoryName31": {
+      "message": "شبکه توزیع محتوا"
+   },
+   "categoryName32": {
+      "message": "اتوماسیون بازاریابی"
+   },
+   "categoryName33": {
+      "message": "افزونه وب سرور"
+   },
+   "categoryName34": {
+      "message": "پایگاه‌داده"
+   },
+   "categoryName35": {
+      "message": "نقشه"
+   },
+   "categoryName36": {
+      "message": "شبکه تبلیغاتی"
+   },
+   "categoryName37": {
+      "message": "خدمات شبکه"
+   },
+   "categoryName38": {
+      "message": "سرور رسانه"
+   },
+   "categoryName39": {
+      "message": "وب‌کم"
+   },
+   "categoryName4": {
+      "message": "ابزار مستند سازی"
+   },
+   "categoryName40": {
+      "message": "پرینتر"
+   },
+   "categoryName41": {
+      "message": "پردازنده پرداخت"
+   },
+   "categoryName42": {
+      "message": "مدیر برچسب"
+   },
+   "categoryName44": {
+      "message": "سیستم ساخت/CI"
+   },
+   "categoryName46": {
+      "message": "دسترسی از راه دور"
+   },
+   "categoryName47": {
+      "message": "ابزار توسعه"
+   },
+   "categoryName48": {
+      "message": "ذخیره سازی شبکه"
+   },
+   "categoryName49": {
+      "message": "خوانندهای خوراک"
+   },
+   "categoryName5": {
+      "message": "ابزارک"
+   },
+   "categoryName50": {
+      "message": "سیستم مدیریت سند"
+   },
+   "categoryName51": {
+      "message": "سازنده صفحات فرود"
+   },
+   "categoryName52": {
+      "message": "گفتگوی زنده"
+   },
+   "categoryName53": {
+      "message": "مدیریت ارتباط با مشتری"
+   },
+   "categoryName54": {
+      "message": "سئو"
+   },
+   "categoryName55": {
+      "message": "حسابداری"
+   },
+   "categoryName56": {
+      "message": "کریپتوماینر"
+   },
+   "categoryName57": {
+      "message": "تولید کننده سایت ایستا"
+   },
+   "categoryName58": {
+      "message": "آن بوردینگ کاربر"
+   },
+   "categoryName59": {
+      "message": "کتابخانه‌های جاوا اسکریپت"
+   },
+   "categoryName6": {
+      "message": "تجارت الکترونیک"
+   },
+   "categoryName60": {
+      "message": "کانتینرها"
+   },
+   "categoryName61": {
+      "message": "SaaS"
+   },
+   "categoryName62": {
+      "message": "PaaS"
+   },
+   "categoryName63": {
+      "message": "IaaS"
+   },
+   "categoryName64": {
+      "message": "پروکسی معکوس"
+   },
+   "categoryName65": {
+      "message": "لودبالانسر"
+   },
+   "categoryName66": {
+      "message": "فریم‌ورکهای رابط کاربری"
+   },
+   "categoryName67": {
+      "message": "انطباق کوکی"
+   },
+   "categoryName68": {
+      "message": "دسترسی"
+   },
+   "categoryName69": {
+      "message": "احراز هویت"
+   },
+   "categoryName7": {
+      "message": "گالری تصویر"
+   },
+   "categoryName70": {
+      "message": "صادر کننده SSL/TLS"
+   },
+   "categoryName71": {
+      "message": "برنامه‌های همکاری در فروش"
+   },
+   "categoryName72": {
+      "message": "زمان‌بندی قرارها"
+   },
+   "categoryName73": {
+      "message": "نظرسنجی‌ها"
+   },
+   "categoryName74": {
+      "message": "تست A/B"
+   },
+   "categoryName75": {
+      "message": "ایمیل"
+   },
+   "categoryName76": {
+      "message": "شخصی‌سازی"
+   },
+   "categoryName77": {
+      "message": "هدف‌گیری مجدد"
+   },
+   "categoryName78": {
+      "message": "RUM"
+   },
+   "categoryName79": {
+      "message": "مکان‌یابی جغرافیایی"
+   },
+   "categoryName8": {
+      "message": "ویکی‌ها"
+   },
+   "categoryName80": {
+      "message": "پوسته‌های وردپرس"
+   },
+   "categoryName81": {
+      "message": "پوسته‌های Shopify"
+   },
+   "categoryName82": {
+      "message": "پوسته‌های Drupal"
+   },
+   "categoryName83": {
+      "message": "اثر انگشت مرورگر"
+   },
+   "categoryName84": {
+      "message": "وفاداری و پاداش‌ها"
+   },
+   "categoryName85": {
+      "message": "مدیریت قابلیت‌ها"
+   },
+   "categoryName86": {
+      "message": "بخش‌بندی"
+   },
+   "categoryName87": {
+      "message": "افزونه‌های وردپرس"
+   },
+   "categoryName88": {
+      "message": "میزبانی"
+   },
+   "categoryName89": {
+      "message": "ترجمه"
+   },
+   "categoryName9": {
+      "message": "پنل‌های میزبانی"
+   },
+   "categoryName90": {
+      "message": "نقد و بررسی‌ها"
+   },
+   "categoryName91": {
+      "message": "اکنون بخرید، بعداً پرداخت کنید"
+   },
+   "categoryName92": {
+      "message": "عملکرد"
+   },
+   "categoryName93": {
+      "message": "رزرو و تحویل"
+   },
+   "categoryName94": {
+      "message": "بازاریابی ارجاعی"
+   },
+   "categoryName95": {
+      "message": "مدیریت دارایی‌های دیجیتال"
+   },
+   "categoryName96": {
+      "message": "گردآوری محتوا"
+   },
+   "categoryName97": {
+      "message": "پلتفرم داده مشتری"
+   },
+   "categoryName98": {
+      "message": "رها کردن سبد خرید"
+   },
+   "categoryName99": {
+      "message": "شرکت‌های حمل‌ونقل"
+   },
+   "categoryPin": {
+      "message": "همیشه نماد را نشان بده"
+   },
+   "clearCache": {
+      "message": "پاکسازی شناسایی های کش شده"
+   },
+   "createAlert": {
+      "message": "ساخت یک هشدار برای این وبسایت"
+   },
+   "creditBalance": {
+      "message": "اعتبار:"
+   },
+   "disableOnDomain": {
+      "message": "غیرفعال کردن در این وبسایت"
+   },
+   "formSave": {
+      "message": "ذخیره"
+   },
+   "github": {
+      "message": "چنگال زدن Wappalyzer در گیت‌هاب!"
+   },
+   "issue": {
+      "message": "چیزی اشتباه است یا چیزی کم است؟"
+   },
+   "leadLists": {
+      "message": "ابزارهای تولید سرنخ"
+   },
+   "noAppsDetected": {
+      "message": "هیچ فن‌آوری شناسایی نشده است."
+   },
+   "nothingToDo": {
+      "message": "هیچ چیز برای انجام اینجا نیست."
+   },
+   "optionApiKey": {
+      "message": "کلید API"
+   },
+   "optionApiKeyDescription": {
+      "message": "کلید API خود را دریافت کنید"
+   },
+   "optionBadge": {
+      "message": "نمایش تعداد فناوری های شناسایی شده روی آیکون"
+   },
+   "optionDynamicIcon": {
+      "message": "از نماد فن آوری به جای علامت Wappalyzer استفاده شود"
+   },
+   "optionShowCached": {
+      "message": "شناسایی‌های ذخیره‌شده را در نتایج نمایش بده"
+   },
+   "optionThemeMode": {
+      "message": "فعال کردن حالت سازگاری تاریک."
+   },
+   "optionTracking": {
+      "message": "ارسال فن آوری های شناسایی شده به صورت ناشناس به wappalyzer.com"
+   },
+   "optionUpgradeMessage": {
+      "message": "من را از بروزرسانی‌ها با خبر کن"
+   },
+   "options": {
+      "message": "گزینه‌ها"
+   },
+   "optionsSave": {
+      "message": "ذخیره گزینه‌ها"
+   },
+   "optionsSaved": {
+      "message": "ذخیره شد"
+   },
+   "plusButton": {
+      "message": "ثبت‌نام"
+   },
+   "plusCrawl": {
+      "message": "نتیجه‌ای پیدا نشد، لطفاً بعداً دوباره بررسی کنید."
+   },
+   "plusEmpty": {
+      "message": "نتیجه‌ای پیدا نشد."
+   },
+   "plusMessage": {
+      "message": "با Plus، اطلاعات شرکت و راه‌های تماس وب‌سایت‌هایی که بازدید می‌کنید اینجا نمایش داده می‌شود."
+   },
+   "plusMessageHeading": {
+      "message": "Plus را با ماهی $$10 دریافت کنید"
+   },
+   "privacyPolicy": {
+      "message": "سیاست حفظ حریم خصوصی"
+   },
+   "reloadPage": {
+      "message": "بارگذاری دوباره"
+   },
+   "setAddress": {
+      "message": "نشانی‌ها"
+   },
+   "setCompany": {
+      "message": "اطلاعات شرکت"
+   },
+   "setContact": {
+      "message": "اطلاعات تماس"
+   },
+   "setEmail": {
+      "message": "آدرس‌های ایمیل"
+   },
+   "setKeywords": {
+      "message": "کلمات کلیدی"
+   },
+   "setLocale": {
+      "message": "منطقه"
+   },
+   "setMeta": {
+      "message": "فراداده"
+   },
+   "setPhone": {
+      "message": "شماره تلفن‌ها"
+   },
+   "setSecurity": {
+      "message": "امنیت"
+   },
+   "setSignals": {
+      "message": "سیگنال‌ها"
+   },
+   "setSocial": {
+      "message": "حساب‌های شبکه‌های اجتماعی"
+   },
+   "setTrackers": {
+      "message": "ردیاب‌ها"
+   },
+   "tabPlus": {
+      "message": "اطلاعات بیشتر"
+   },
+   "tabTechnologies": {
+      "message": "فناوری‌ها"
+   },
+   "termsAccept": {
+      "message": "موافقم"
+   },
+   "termsContent": {
+      "message": "این افزونه اطلاعات وب‌سایت‌های بازدید شده توسط شما را به صورت ناشناس ارسال می‌کند، مانند آدرس سایت و تکنولوژی‌های استفاده شده در آن سایت را ارسال می‌کند. اطلاعات بیشتر در \u003Ca href='https://www.wappalyzer.com'>wappalyzer.com\u003C/a>. شما می‌توانید این افزونه را غیرفعال کنید."
+   },
+   "termsDecline": {
+      "message": "غیرفعال کردن"
+   },
+   "twitter": {
+      "message": "دنبال کردن Wappalyzer در توییتر"
+   },
+   "website": {
+      "message": "رفتن به wappalyzer.com"
+   }
+}

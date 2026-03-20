@@ -1,0 +1,124 @@
+{
+   "checksum": "27c92240f31e6f060190913e3d0a1534",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13418010134049022",
+            "date_last_used": "13418188115357844",
+            "guid": "b6ca62b1-b9f5-48db-ac66-b14cfcdfe4d7",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Perplexity",
+            "type": "url",
+            "url": "https://www.perplexity.ai/"
+         }, {
+            "date_added": "13418010199328733",
+            "date_last_used": "13418435911022900",
+            "guid": "4f88a261-5e6a-430e-b418-273ba36cdccf",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "HTB Labs",
+            "type": "url",
+            "url": "https://app.hackthebox.com/home"
+         }, {
+            "date_added": "13418010216861212",
+            "date_last_used": "13418063952680217",
+            "guid": "147c62c7-d898-48c9-97fe-d5731e4ba4dc",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "HTB Academy",
+            "type": "url",
+            "url": "https://academy.hackthebox.com/app/dashboard"
+         }, {
+            "date_added": "13418016350508302",
+            "date_last_used": "13418151128399873",
+            "guid": "4c20fd0f-4b51-4315-bc82-fc11b6c2afdc",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "CyberChef",
+            "type": "url",
+            "url": "https://gchq.github.io/CyberChef/"
+         }, {
+            "date_added": "13418063575488904",
+            "date_last_used": "0",
+            "guid": "6b5736be-8150-4ccd-ac67-5e8eb1b2cb68",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "HTB Writeups",
+            "type": "url",
+            "url": "https://github.com/secopssite/HTB"
+         }, {
+            "date_added": "13418065226752582",
+            "date_last_used": "13418441420740725",
+            "guid": "3c9efc48-45f2-41cb-94d5-fe4fb8bf6e9a",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13418110837470353",
+            "date_last_used": "13418366194671036",
+            "guid": "d42cb947-452f-4be6-8ef6-591fa8aa8fd5",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "wallpapers",
+            "type": "url",
+            "url": "https://wallpaperaccess.com/1920x1080-gif"
+         }, {
+            "date_added": "13418180928987552",
+            "date_last_used": "13418336249624341",
+            "guid": "d4245ac5-bfd1-421b-87d6-0d4878b8ea1b",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Gemini",
+            "type": "url",
+            "url": "https://gemini.google.com/app?utm_source=app_launcher&utm_medium=owned&utm_campaign=base_all"
+         } ],
+         "date_added": "13417992041569461",
+         "date_last_used": "0",
+         "date_modified": "13418180928987552",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13417992041569461",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13417992041569461",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

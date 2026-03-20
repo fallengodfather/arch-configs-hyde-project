@@ -1,0 +1,52 @@
+2026/03/19-16:35:50.791 145ad Reusing MANIFEST /home/leandros/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2026/03/19-16:35:50.803 145ad Recovering log #172
+2026/03/19-16:35:50.803 145ad Reusing old log /home/leandros/.config/discord/Local Storage/leveldb/000172.log 
+2026/03/19-16:36:50.862 145ae Level-0 table #176: started
+2026/03/19-16:36:50.874 145ae Level-0 table #176: 51121 bytes OK
+2026/03/19-16:36:50.877 145ae Delete type=0 #172
+2026/03/19-16:48:00.716 145ae Level-0 table #178: started
+2026/03/19-16:48:00.789 145ae Level-0 table #178: 4761370 bytes OK
+2026/03/19-16:48:00.793 145ae Delete type=0 #175
+2026/03/19-18:09:52.222 145ae Level-0 table #180: started
+2026/03/19-18:09:52.229 145ae Level-0 table #180: 14850 bytes OK
+2026/03/19-18:09:52.233 145ae Delete type=0 #177
+2026/03/19-18:09:52.234 145ae Compacting 4@0 + 2@1 files
+2026/03/19-18:09:52.335 145ae Generated table #181@0: 17 keys, 4712845 bytes
+2026/03/19-18:09:52.339 145ae Generated table #182@0: 45 keys, 75091 bytes
+2026/03/19-18:09:52.339 145ae Compacted 4@0 + 2@1 files => 4787936 bytes
+2026/03/19-18:09:52.341 145ae compacted to: files[ 0 2 1 0 0 0 0 ]
+2026/03/19-18:09:52.341 145ae Delete type=2 #171
+2026/03/19-18:09:52.341 145ae Delete type=2 #173
+2026/03/19-18:09:52.341 145ae Delete type=2 #176
+2026/03/19-18:09:52.341 145ae Delete type=2 #178
+2026/03/19-18:09:52.341 145ae Delete type=2 #170
+2026/03/19-18:09:52.341 145ae Delete type=2 #180
+2026/03/19-18:46:38.122 145ad Level-0 table #184: started
+2026/03/19-18:46:38.124 145ad Level-0 table #184: 28651 bytes OK
+2026/03/19-18:46:38.127 145ad Delete type=0 #179
+2026/03/19-20:57:06.598 145ae Level-0 table #186: started
+2026/03/19-20:57:06.605 145ae Level-0 table #186: 49752 bytes OK
+2026/03/19-20:57:06.608 145ae Delete type=0 #183
+2026/03/19-21:20:58.711 145ae Level-0 table #188: started
+2026/03/19-21:20:58.728 145ae Level-0 table #188: 49568 bytes OK
+2026/03/19-21:20:58.731 145ae Delete type=0 #185
+2026/03/19-23:17:22.980 145ae Level-0 table #190: started
+2026/03/19-23:17:22.995 145ae Level-0 table #190: 51696 bytes OK
+2026/03/19-23:17:22.998 145ae Delete type=0 #187
+2026/03/19-23:17:22.998 145ae Compacting 4@0 + 2@1 files
+2026/03/19-23:17:23.079 145ae Generated table #191@0: 17 keys, 4711476 bytes
+2026/03/19-23:17:23.083 145ae Generated table #192@0: 45 keys, 74475 bytes
+2026/03/19-23:17:23.083 145ae Compacted 4@0 + 2@1 files => 4785951 bytes
+2026/03/19-23:17:23.086 145ae compacted to: files[ 0 2 1 0 0 0 0 ]
+2026/03/19-23:17:23.087 145ae Delete type=2 #182
+2026/03/19-23:17:23.087 145ae Delete type=2 #186
+2026/03/19-23:17:23.087 145ae Delete type=2 #190
+2026/03/19-23:17:23.087 145ae Delete type=2 #184
+2026/03/19-23:17:23.087 145ae Delete type=2 #188
+2026/03/19-23:17:23.087 145ae Delete type=2 #181
+2026/03/20-00:47:43.269 145ae Level-0 table #194: started
+2026/03/20-00:47:43.284 145ae Level-0 table #194: 48235 bytes OK
+2026/03/20-00:47:43.288 145ae Delete type=0 #189
+2026/03/20-00:48:13.338 145ae Level-0 table #196: started
+2026/03/20-00:48:13.353 145ae Level-0 table #196: 33960 bytes OK
+2026/03/20-00:48:13.356 145ae Delete type=0 #193

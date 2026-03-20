@@ -1,0 +1,6 @@
+2026/03/15-01:02:36.992 2e60 Creating DB /home/leandros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.hackthebox.com_0.indexeddb.leveldb since it was missing.
+2026/03/15-01:02:36.998 2e60 Reusing MANIFEST /home/leandros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.hackthebox.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/15-01:03:17.351 2e61 Level-0 table #5: started
+2026/03/15-01:03:17.354 2e61 Level-0 table #5: 861 bytes OK
+2026/03/15-01:03:17.356 2e61 Delete type=0 #3
+2026/03/15-01:03:17.357 2e61 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

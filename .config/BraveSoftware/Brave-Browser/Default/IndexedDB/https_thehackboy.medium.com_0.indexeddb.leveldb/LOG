@@ -1,0 +1,6 @@
+2026/03/15-16:32:37.816 11fab Creating DB /home/leandros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_thehackboy.medium.com_0.indexeddb.leveldb since it was missing.
+2026/03/15-16:32:37.821 11fab Reusing MANIFEST /home/leandros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_thehackboy.medium.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/15-16:35:14.918 11faf Level-0 table #5: started
+2026/03/15-16:35:14.922 11faf Level-0 table #5: 27064 bytes OK
+2026/03/15-16:35:14.927 11faf Delete type=0 #3
+2026/03/15-16:35:14.928 11faf Manual compaction at level-0 from (begin) .. (end); will stop at (end)
