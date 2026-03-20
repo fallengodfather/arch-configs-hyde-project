@@ -1,9 +1,0 @@
-{
-  "openH264Enabled": true,
-  "BACKGROUND_COLOR": "#2c2d32",
-  "offloadAdmControls": true,
-  "enableLibOpenH264Electron": false,
-  "chromiumSwitches": {},
-  "IS_MAXIMIZED": true,
-  "IS_MINIMIZED": false
-}

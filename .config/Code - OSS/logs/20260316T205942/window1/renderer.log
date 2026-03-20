@@ -1,9 +1,0 @@
-2026-03-16 20:59:43.426 [error] Error: The editor could not be opened because the file was not found.
-    at pQ.handleSetInputError (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3677:92292)
-    at async pQ.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3677:91301)
-    at async Z_e.doSetInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1130:33580)
-    at async Z_e.doOpenEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1130:31366)
-    at async Z_e.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1130:30315)
-    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1242:31275
-2026-03-16 20:59:43.486 [info] Started local extension host with pid 113255.
-2026-03-16 20:59:46.282 [info] [perf] Render performance baseline is 47ms

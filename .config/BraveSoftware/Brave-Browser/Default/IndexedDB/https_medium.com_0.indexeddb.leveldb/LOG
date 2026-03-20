@@ -1,7 +1,0 @@
-2026/03/19-15:47:04.119 c69c Reusing MANIFEST /home/leandros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_medium.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/03/19-15:47:04.119 c69c Recovering log #3
-2026/03/19-15:47:04.124 c69c Reusing old log /home/leandros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_medium.com_0.indexeddb.leveldb/000003.log 
-2026/03/19-15:52:01.075 c69e Level-0 table #5: started
-2026/03/19-15:52:01.080 c69e Level-0 table #5: 79635 bytes OK
-2026/03/19-15:52:01.082 c69e Delete type=0 #3
-2026/03/19-15:52:01.082 c69e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
